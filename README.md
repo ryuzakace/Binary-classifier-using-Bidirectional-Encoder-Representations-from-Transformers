@@ -1,4 +1,4 @@
-# Identifying_tweets_containing_disasters_using_transformers
-Training Accuracy: 90
-Validation Accuracy: 83
-Test Accuracy: 83
+# Binary classifier
+Training Accuracy: 90 \n
+Validation Accuracy: 83 \n
+Test Accuracy: 83 \n
