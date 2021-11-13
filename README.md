@@ -1,4 +1,4 @@
-# Binary classifier using Bidirectional Encoder Representations from Transformers
+# Identifying_tweets_containing_disasters_using_transformers
 
 ## Dataset
 Training/Validation - Kaggle/Natural Language Processing with Disaster Tweets/train.csv <br>
